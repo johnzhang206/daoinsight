@@ -12,6 +12,6 @@ Subscribe to receive essays on:
 
 ## Recent Essays
 
-- [A Glimpse of the “Great Rejuvenation” Paradox](/essays/Great-Rejuvenation-paradox.md/)
-- [Speed and Scale as Ideology](/essays/Speed-and-Scale.md/)
-- [Why Wuwei Is the Missing Principle of Governance](/essays/Wuwei-Governance.md/)
+- [A Glimpse of the “Great Rejuvenation” Paradox](/essays/great-rejuvenation-paradox/)
+- [Speed and Scale as Ideology](/essays/speed-and-scale/)
+- [Why Wuwei Is the Missing Principle of Governance](/essays/wuwei-governance/)
