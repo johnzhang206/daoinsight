@@ -1,18 +1,15 @@
+---
 layout: default
-title: A Glimpse of the "Great Rejuvenation" Paradox
-permalink: /essays/great-rejuvenation-paradox/
+title: Essays
+permalink: /essays/
 ---
 
-By John Zhang | March 9, 2026
+Subscribe to receive essays on:
 
-Laozi opens the *Dao De Jing* with a warning: "The Dao that can be spoken is not the enduring Dao; the name that can be named is not the lasting name." That warning is especially relevant to modern political slogans.
+- Daoism and governance
+- Political rhetoric
+- Perspective on current events
 
-In 2025, China recorded only 7.92 million births, down 17 percent from the previous year and the lowest total since the founding of the People's Republic.
+## Recent Essays
 
-## The Paradox of Decline
-
-What makes this crisis especially striking is its timing...
-
-## Conclusion
-
-The "great rejuvenation" paradox is this: the more forcefully the state tried to command society, the more it weakened the social foundations of renewal.
+- [A Glimpse of the "Great Rejuvenation" Paradox](/essays/great-rejuvenation-paradox/)
