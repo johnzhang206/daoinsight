@@ -1,4 +1,4 @@
----
+--
 layout: default
 title: A Glimpse of the "Great Rejuvenation" Paradox
 permalink: /essays/great-rejuvenation-paradox/
