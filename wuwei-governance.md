@@ -58,7 +58,3 @@ Wuwei, then, is not withdrawal. It is political maturity. And for modern governa
 8. Reuters on 2025 FDI decline to 747.7 billion yuan.
 9. Reuters on the ongoing property slump and its macroeconomic effects.
 10. NDRC and related official materials on "新质生产力."
-
-And in essays.md, use this link line:
-
-- [Why Wuwei Is the Missing Principle of Governance](/essays/wuwei-governance/)
