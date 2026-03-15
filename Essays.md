@@ -12,4 +12,3 @@ Subscribe to receive essays on:
 
 ## Recent Essays
 
-- [A Glimpse of the "Great Rejuvenation" Paradox](/essays/great-rejuvenation-paradox/)
