@@ -4,11 +4,9 @@ title: Essays
 permalink: /essays/
 ---
 
-Subscribe to receive essays on:
+•	Essays on Daoism, Governance, and Political Rhetoric
+•	Critical Perspectives on Current Events
 
-- Daoism and governance
-- Political rhetoric
-- Perspective on current events
 
 ## Recent Essays
 
