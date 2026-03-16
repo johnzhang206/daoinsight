@@ -5,6 +5,7 @@ permalink: /essays/
 ---
 
 •	Essays on Daoism, Governance, and Political Rhetoric
+
 •	Critical Perspectives on Current Events
 
 
