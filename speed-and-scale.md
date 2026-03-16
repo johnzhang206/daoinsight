@@ -71,6 +71,4 @@ Two millennia ago, Laozi warned: "Less is gain; more is confusion." In the "Chin
 5. Encyclopaedia Britannica, entries on Mao Zedong and the Great Leap Forward.
 6. National Bureau of Statistics of China, China Statistical Yearbook 2024.
 
-And in essays.md, use this link line:
 
-- [Speed and Scale as Ideology](/essays/speed-and-scale/)
