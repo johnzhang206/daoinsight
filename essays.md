@@ -8,7 +8,9 @@ Essays on Daoism, Governance, and Political Rhetoric
 
 Critical Perspectives on Current Events
 
-## Essays
+---
+
+## Recent Essays
 
 - [Why Wuwei Is the Missing Principle of Governance](/essays/wuwei-governance/)
 - [Speed and Scale as Ideology](/essays/speed-and-scale/)
