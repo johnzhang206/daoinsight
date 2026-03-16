@@ -60,6 +60,4 @@ China's demographic decline is not only a social and economic crisis but, more f
 4. Reuters -- 2024 marriage registrations falling by about one-fifth.
 5. AP / The Guardian -- child-raising cost estimate of around 538,000 yuan and related demographic pressures.
 
-Then in essays.md, keep this link:
 
-- [A Glimpse of the "Great Rejuvenation" Paradox](/essays/great-rejuvenation-paradox/)
