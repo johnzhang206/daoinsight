@@ -13,6 +13,6 @@ Critical Perspectives on Current Events
 ## Recent Essays
 
 - [Beijing's Iran Policy Unravels: A Daoist Perspective](/essays/iran/)
-- [Why Wuwei Is the Missing Principle of Governance](/essays/wuwei-governance/)
+- [Why Wuwei Is the Missing Principle of Governance](/essays/wuwei/)
 - [Speed and Scale as Ideology](/essays/speed-and-scale/)
 - [A Glimpse of the "Great Rejuvenation" Paradox](/essays/great-rejuvenation-paradox/)
