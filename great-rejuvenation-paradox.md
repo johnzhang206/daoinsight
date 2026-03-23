@@ -1,10 +1,10 @@
 ---
 layout: default
 title: A Glimpse of the "Great Rejuvenation" Paradox
+author: "John Zhang"
+date: 2026-03-09
 permalink: /essays/great-rejuvenation-paradox/
 ---
-
-By John Zhang | March 9, 2026
 
 Laozi opens the Dao De Jing with a warning: "The Dao that can be spoken is not the enduring Dao; the name that can be named is not the lasting name." That warning is especially relevant to modern political slogans. In contemporary China, the exalted language of the "China Dream" and the "great rejuvenation of the Chinese nation" collides with a demographic reality moving in the opposite direction.
 
