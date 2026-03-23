@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Speed and Scale as Ideology
+title: "Speed and Scale as Ideology"
+author: "John Zhang"
+date: 2026-03-12
 permalink: /essays/speed-and-scale/
 ---
-
-By John Zhang | March 12, 2026
 
 Mao Zedong once called for building socialism in a "more, faster, better, and more frugal" way. Mao launched dozens of political movements, including the Great Leap Forward, which produced the worst famine in human history, costing at least 30 million lives.
 
