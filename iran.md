@@ -6,10 +6,6 @@ date: 2026-03-23
 permalink: /iran/
 ---
 
-
-Beijing's Iran Policy Unravels: A Daoist Perspective 
-By John Zhang 
-March 23, 2026
 For years, Iran has been one of Beijing's most useful assets in the Middle East. Through Tehran, China could buy discounted oil, complicate American strategy, expand its regional presence, and still maintain business with Saudi Arabia and the Gulf states. Better yet, it could pretend to stand above the fray, speaking the language of peace while quietly profiting from conflict.
 It was an attractive arrangement. China gained leverage without a formal alliance, influence without direct responsibility, and prestige at little cost.
 That was the theory. Now the theory is breaking down.
