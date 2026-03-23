@@ -1,8 +1,11 @@
 ---
 layout: default
 title: "Beijing's Iran Policy Unravels: A Daoist Perspective"
+author: "John Zhang"
+date: 2026-03-23
 permalink: /iran/
 ---
+
 
 Beijing's Iran Policy Unravels: A Daoist Perspective 
 By John Zhang 
