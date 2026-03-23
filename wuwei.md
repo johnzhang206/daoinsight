@@ -3,7 +3,7 @@ layout: default
 title: "Why Wuwei Is the Missing Principle of Governance"
 author: "John Zhang"
 date: 2026-03-16
-permalink: /essays/wuwei.md/
+permalink: /essays/wuwei/
 ---
 
 
