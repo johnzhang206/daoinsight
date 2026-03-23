@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Essays
-permalink: /essays/
+title: Beijing's Iran Policy Unravels: A Daoist Perspective 
+permalink: /essays/iran.md
 ---
 
 Essays on Daoism, Governance, and Political Rhetoric
