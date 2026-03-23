@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Why Wuwei Is the Missing Principle of Governance
+title: "Why Wuwei Is the Missing Principle of Governance"
+author: "John Zhang"
+date: 2026-03-16
 permalink: /essays/wuwei-governance/
 ---
-
-By John Zhang | March 16, 2026
 
 Modern politics often mistakes control for strength. The more power a leader, Party, or state gathers, the stronger the system is assumed to be. Laozi offered a radically different standard more than two thousand years ago: wuwei (无为). Properly understood, wuwei is not passivity. It is restrained, measured, non-coercive rule. It means governing without constant forcing, without endless intrusion, and without turning every problem into a campaign.
 
