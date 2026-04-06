@@ -2,7 +2,7 @@
 layout: default
 title: "A Loud Chorus Over a Hollow Economy"
 author: "John Zhang"
-date: 2026-04-06
+date: 2026-04-6
 permalink: /essays/sing-economy/
 ---
 
