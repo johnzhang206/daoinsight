@@ -12,6 +12,7 @@ Critical Perspectives on Current Events
 
 ## Recent Essays
 
+- [A Loud Chorus Over a Hollow Economy](/essays/sing-economy/)
 - [Let Ritual Rule: The PRC's Parliamentary Two Sessions](/essays/two-sessions/)
 - [Beijing's Iran Policy Unravels: A Daoist Perspective](/essays/iran/)
 - [Why Wuwei Is the Missing Principle of Governance](/essays/wuwei/)
