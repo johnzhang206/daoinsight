@@ -3,7 +3,7 @@ layout: default
 title: "Let Ritual Rule: The PRC's Parliamentary Two Sessions"
 author: "John Zhang"
 date: 2026-03-30
-permalink: /essays/two-sessions.md/
+permalink: /essays/two-sessions/
 ---
 
 Every March, Beijing puts on one of the world's most meticulously staged political performances: the "Two Sessions," the annual meetings of the National People's Congress (NPC) and the Chinese People's Political Consultative Conference (CPPCC). Officially, these gatherings are presented as the center of China's political system. The PRC Constitution describes the NPC as "the highest organ of state power," while the CPPCC presents itself as a body for political consultation, democratic supervision, and participation in the deliberation and administration of state affairs (Constitution of the People's Republic of China, 2018; CPPCC, n.d.). 
